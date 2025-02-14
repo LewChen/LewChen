@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+严于律己，宽于待人
 <!--
 **LewChen/LewChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
